@@ -1,0 +1,2 @@
+# KialoClient
+ Partie Cordova Kialo

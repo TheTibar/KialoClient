@@ -1,0 +1,138 @@
+@media screen and (max-width: 800px){
+    #content {
+        background-color: #F0F4FF;
+        width: 100%;
+        margin: 0 auto;
+        font-size: 12px;
+}
+    
+   #header {
+       height: 30px;
+		background-color: #38ADA9;
+		width: 100%;
+		text-align: center;
+		color: white;
+		line-height:30px;
+		font-size: 18px;
+}
+    
+    span.texte {
+		padding:10px;
+		color: #3D3D3D;
+		vertical-align:middle;
+		display:inline-block;
+		line-height: 1.4em;
+		margin-block-start: 0px;
+		margin-block-end: 0px;	
+}
+}
+
+#up_arrow {
+	width: 30px;
+	height: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#down_arrow {
+	width: 30px;
+	height: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#app {
+    font-family: 'Lato', sans-serif;
+}
+
+
+#mapid { 
+	height: 400px; 
+	width: 100%;
+	}
+
+#header {
+    height: 70px;
+    background-color: #38ADA9;
+    width: 100%;
+    text-align: center;
+    color: white;
+    line-height:70px;
+    font-size: 20px;
+}
+
+#footer {
+    height: 70px;
+    background-color: #38ADA9;
+    width: 100%;
+    text-align: center;
+    color: white;
+    line-height:70px;
+    font-size: 20px;
+}
+
+#mail_kialo {
+    height: 30px;
+    background-color: #38ADA9;
+    width: 100%;
+    text-align: center;
+    color: white;
+    line-height:30px;
+    font-size: 12px;
+}
+
+#legend {
+	height: 30px;
+    background-color: #DCDCDC;
+    width: 100%;
+    text-align: left;
+    color: black;
+    line-height:0px;
+    font-size: 10px;
+}
+
+#content {
+    background-color: #F0F4FF;
+    width: 70%;
+    margin: 0 auto;
+}
+
+#no_content {
+	background-color: #F0F4FF;
+    width: 70%;
+    margin: 0 auto;
+	visibility: hidden;
+}
+
+span.texte {
+    padding:10px;
+    color: #3D3D3D;
+    vertical-align:middle;
+    display:inline-block;
+    line-height: 1.4em;
+	margin-block-start: 0px;
+	margin-block-end: 0px;
+}
+
+.red_dot {
+  height: 8px;
+  width: 8px;
+  background-color: #ff0000;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.blue_dot {
+  height: 8px;
+  width: 8px;
+  background-color: #0000ff;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+#td_valid {
+	height: 70px;
+}
